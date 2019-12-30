@@ -207,7 +207,7 @@ So, you went from training to production and then what?
 
 What you do is monitoring the output. If the output keeps making sense, all good!
 
-If the output of the model changes and it's on longer what you have expected, it means the model doesn't work anymore.
+If the output of the model changes and it's no longer what you have expected, it means the model doesn't work anymore.
 
 You need to trigger a retraining of the model. It basically gets to getting trained again.
 
